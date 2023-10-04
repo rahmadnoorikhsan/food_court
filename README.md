@@ -20,15 +20,15 @@ samples, guidance on mobile development, and a full API reference.
 # Vertical
 <table>
     <tr>
-        <td><img src="screenshot/Screenshot_1696418471.png" align="center" alt="4"</td>
-        <td><img src="screenshot/Screenshot_1696418474.png" align="center" alt="4"</td>
+        <td><img src="screenshots/Screenshot_1696418471.png" align="center" alt="4"</td>
+        <td><img src="screenshots/Screenshot_1696418474.png" align="center" alt="4"</td>
     </tr>
 <table>
 
 # Horizontal
 <table>
   <tr>
-      <td><img src="screenshot/Screenshot_1696418422.png" align="center" alt="4"</td>
-      <td><img src="screenshot/Screenshot_1696418664.png" align="center" alt="4"</td>
+      <td><img src="screenshots/Screenshot_1696418422.png" align="center" alt="4"</td>
+      <td><img src="screenshots/Screenshot_1696418664.png" align="center" alt="4"</td>
   </tr>
 </table>
