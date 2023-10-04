@@ -27,8 +27,10 @@ samples, guidance on mobile development, and a full API reference.
 
 # Horizontal
 <table>
-  <td>
+  <tr>
       <td><img src="screenshots/Screenshot_1696418422.png" align="center" alt="4"</td>
+  </tr>
+    <tr>
       <td><img src="screenshots/Screenshot_1696418664.png" align="center" alt="4"</td>
-  </td>
+    </tr>
 </table>
