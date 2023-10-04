@@ -233,7 +233,7 @@ class _DetailWebPageState extends State<DetailWebPage> {
                       const Text(
                         'Food Court',
                         style: TextStyle(
-                          fontSize: 20,
+                          fontSize: 24,
                         ),
                       ),
                       IconButton(
@@ -245,7 +245,7 @@ class _DetailWebPageState extends State<DetailWebPage> {
                             color: Colors.black,
                           )),
                     ]),
-                const SizedBox(height: 16),
+                const SizedBox(height: 32),
                 Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
