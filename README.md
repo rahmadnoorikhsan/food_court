@@ -1,6 +1,9 @@
 # food_court
 
-A new Flutter project.
+Project Submission on Belajar Membuat Aplikasi Flutter untuk Pemula (BMAFP) class Dicoding Academy
+
+> **Warning**
+> USE THIS PROJECT AS A REFERENCE FOR YOUR SUBMISSION. DO NOT SEND OR COPY PASTE THIS PROJECT FOR YOUR SUBMISSION!
 
 ## Getting Started
 
@@ -17,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Preview :
 
-# Vertical
+### Vertical
 <table>
     <tr>
         <td><img src="screenshots/Screenshot_1696418471.png" align="center" alt="4"</td>
@@ -25,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
     </tr>
 <table>
 
-# Horizontal
+### Horizontal
 <table>
   <tr>
       <td><img src="screenshots/Screenshot_1696418664.png" align="center" alt="4"</td>
