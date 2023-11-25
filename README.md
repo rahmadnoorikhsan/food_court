@@ -2,7 +2,7 @@
 
 Project Submission on Belajar Membuat Aplikasi Flutter untuk Pemula (BMAFP) class Dicoding Academy
 
-> [!Warning]
+> [!WARNING]
 > USE THIS PROJECT AS A REFERENCE FOR YOUR SUBMISSION. DO NOT SEND OR COPY PASTE THIS PROJECT FOR YOUR SUBMISSION!
 
 ## Getting Started
